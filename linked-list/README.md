@@ -1,0 +1,1 @@
+## Factory function for creating Linked List

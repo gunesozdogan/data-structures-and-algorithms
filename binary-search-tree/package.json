@@ -1,0 +1,24 @@
+{
+    "name": "@gunesozdogan/binary-search-tree",
+    "version": "1.0.0",
+    "description": "creates binary-search-tree",
+    "main": "script.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gunesozdogan/binary-search-tree.git"
+    },
+    "keywords": [
+        "binary",
+        "search",
+        "tree"
+    ],
+    "author": "Güneş Oktay Özdoğan",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/gunesozdogan/binary-search-tree/issues"
+    },
+    "homepage": "https://github.com/gunesozdogan/binary-search-tree#readme"
+}
